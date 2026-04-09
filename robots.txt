@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lightbryan26.github.io/rotorooter-philippin-c0945/sitemap.xml
